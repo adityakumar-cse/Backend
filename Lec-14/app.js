@@ -2,7 +2,7 @@ const express = require('express');
 const app = expreess();
 
 app.get("/", function(req, res){
-   resend('index')
+   resend('index1')
 })
 
 app.listen(3000);
